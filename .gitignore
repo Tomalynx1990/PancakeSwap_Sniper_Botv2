@@ -1,0 +1,45 @@
+# .NET / C#
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+*.cache
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CTF Solution (NE PAS COMMITER)
+SOLUTION.md
+solution.md
+SOLUTION.txt
+solution.txt
+
+# Logs and data
+*.log
+.sniper_log
+snipes.json
+wallets_data.json
+trades_history.json
